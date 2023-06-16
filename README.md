@@ -15,3 +15,4 @@
 | Category | Challenge |
 | --- | --- |
 | Cryptography | [RSA](/Cryptography/RSA)
+| Cryptography | [Vigenere](/Cryptography/Vigenere)
