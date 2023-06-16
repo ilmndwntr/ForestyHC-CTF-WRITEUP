@@ -1,5 +1,6 @@
 # RSA
 I just hacked the foresty server, and found hidden files on it. However, the file is still encrypted and should be crackable with some encryption scheme. Can you help me to decrypt this file?
+
 Format Flag: ForestyHC{flag}
 ## Solution
 diberikan berupa file **output.txt** yang berisikan:
@@ -32,4 +33,5 @@ STR : b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
 ```
 
 Seperti yang terlihat diatas kita dapat melihat kalo FLAG sudah ditemukan yaitu ```ForestyHC{knowing_basic_of_RSA_calculation_1af53a}```
+
 ![Screenshot](https://media.tenor.com/CW3dv0a1Hf4AAAAC/mission-complete-spongebob.gif)
