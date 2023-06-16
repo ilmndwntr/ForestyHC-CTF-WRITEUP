@@ -52,5 +52,6 @@ plainText = emojiDecrypt(cipherText)
 print(plainText)
 ```
 
-pov my brain now
+**pov my brain now**:
+
 ![Screenshot](https://media.tenor.com/fF0N2mmkW-QAAAAC/mind-blown.gif)
