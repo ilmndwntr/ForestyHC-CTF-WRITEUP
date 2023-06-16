@@ -16,3 +16,4 @@
 | --- | --- |
 | Cryptography | [RSA](/Cryptography/RSA)
 | Cryptography | [Vigenere](/Cryptography/Vigenere)
+| Cryptography | [Emoji](/Cryptography/Emoji)
