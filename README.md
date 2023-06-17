@@ -14,7 +14,7 @@
 ### Week 2
 | Category | Challenge |
 | --- | --- |
-| Forensic | [Rawwrrr](/Cryptography/Rawwrrr)
+| Forensic | [Rawwrr](/Cryptography/Rawwrr)
 | Cryptography | [RSA](/Cryptography/RSA)
 | Cryptography | [Vigenere](/Cryptography/Vigenere)
 | Cryptography | [Emoji](/Cryptography/Emoji)
