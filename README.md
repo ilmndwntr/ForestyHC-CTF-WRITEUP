@@ -1,7 +1,7 @@
 # Writeup CTF Foresty Hacker Class
 ```Username : ilmndwntr```
 ## List Challenge
-***List of Challenge I solved.***
+***Lists of Challenge I solved.***
 ### Week 1
 | Category | Challenge |
 | --- | --- |
@@ -17,3 +17,4 @@
 | Cryptography | [RSA](/Cryptography/RSA)
 | Cryptography | [Vigenere](/Cryptography/Vigenere)
 | Cryptography | [Emoji](/Cryptography/Emoji)
+| Cryptography | [XORRR](/Cryptography/XORRR)
