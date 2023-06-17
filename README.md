@@ -19,3 +19,6 @@
 | Cryptography | [Vigenere](/Cryptography/Vigenere)
 | Cryptography | [Emoji](/Cryptography/Emoji)
 | Cryptography | [XORRR](/Cryptography/XORRR)
+
+
+```Kalo membantu jangan lupa bintang lima nya ya kak, thankyou<3 ```
