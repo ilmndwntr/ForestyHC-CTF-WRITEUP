@@ -20,5 +20,9 @@
 | Cryptography | [Emoji](/Cryptography/Emoji)
 | Cryptography | [XORRR](/Cryptography/XORRR)
 
+### Week 3
+| Category | Challenge |
+| --- | --- |
+| Forensic | [Flagzz](/Forensic/Flagzz)
 
 ```Kalo membantu jangan lupa bintang lima nya ya kak, thankyou<3 ```
