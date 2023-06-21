@@ -24,5 +24,6 @@
 | Category | Challenge |
 | --- | --- |
 | Forensic | [Flagzz](/Forensic/Flagzz)
+| Forensic | [Recover Me](/Forensic/Recover_Me)
 
 ```Kalo membantu jangan lupa bintang lima nya ya kak, thankyou<3 ```
