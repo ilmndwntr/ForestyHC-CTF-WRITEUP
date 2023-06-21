@@ -26,13 +26,13 @@ k1ra@ilmndwntr:~/ForestyCTF2023/Forensic/Recover_Me$ hexdump -C Bendera.png | he
 00000090  2f 2f 2f d7 2b 48 49 d3  2d c9 cf cf 29 d6 4b ce  |///.+HI.-...).K.|
 ```
 
-terdapat **LOL** yang seharus nya **PNG** dan **IHBR** yang seharus nya **IHDR**, langsung saja kita edit menggunakan Hex Editor
+terdapat **LOL** yang seharus nya **PNG** dan **IHBR** yang seharus nya **IHDR**
 
-![Screenshot](https://raw.githubusercontent.com/ilmndwntr/ForestyHC-CTF-WRITEUP/main/Forensic/Flagzz/ss1.png)
+![Screenshot](https://raw.githubusercontent.com/ilmndwntr/ForestyHC-CTF-WRITEUP/main/Forensic/Recover_Me/ss_2.png)
 
 setelah melakukan perubahan saat nya kita buka gambar nya and BOM ternyata itu adalah FLAG nya
 
-![Screenshot](https://raw.githubusercontent.com/ilmndwntr/ForestyHC-CTF-WRITEUP/main/Forensic/Flagzz/ss2.png)
+![Screenshot](https://raw.githubusercontent.com/ilmndwntr/ForestyHC-CTF-WRITEUP/main/Forensic/Recover_Me/ss_1.png)
 
 ez bukan?
 
