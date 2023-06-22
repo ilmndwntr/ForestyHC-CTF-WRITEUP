@@ -5,7 +5,7 @@
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Miscellaneous | [x] [Sanity Check](/Miscellaneous/Sanity%20Check)
+| Miscellaneous | - [x] [Sanity Check](/Miscellaneous/Sanity%20Check)
 | Web Exploitation | [ezqlite](/Web%20Exploitation/ezqlite)
 | Web Exploitation | [Mongkey](/Web%20Exploitation/Mongkey/)
 | Web Exploitation | [figl33t](/Web%20Exploitation/figl33t/)
