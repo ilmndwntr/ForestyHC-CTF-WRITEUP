@@ -19,6 +19,7 @@
 | Cryptography | [Vigenere](/Cryptography/Vigenere)
 | Cryptography | [Emoji](/Cryptography/Emoji)
 | Cryptography | [XORRR](/Cryptography/XORRR)
+| Cryptography | [OFB](/Cryptography/OFB)
 
 ### Week 3
 | Category | Challenge |
