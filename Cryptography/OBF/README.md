@@ -1,7 +1,7 @@
 # OFB
 Oh no! Someone just sent me some suspicious file, and I accidentally opened it. Suddenly, all my files are encrypted. Fortunately, I have backed up one of the encrypted files and found this when I tried to reverse the file.
 
-```
+```py
 def encrypt(plaintext):
     cipher = AES.new(KEY, AES.MODE_OFB, IV)
     ciphertext = cipher.encrypt(pad(plaintext, AES.block_size))
