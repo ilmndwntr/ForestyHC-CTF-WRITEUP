@@ -17,7 +17,7 @@ Username: ilmndwntr
 - **Cryptography**: [Vigenere](/Cryptography/Vigenere)
 - **Cryptography**: [Emoji](/Cryptography/Emoji)
 - **Cryptography**: [XORRR](/Cryptography/XORRR)
-- **Cryptography**: [OBF](/Cryptography/OBF)
+- **Cryptography**: [OFB](/Cryptography/OBF)
 
 ### Week 3
 - **Forensic**: [Flagzz](/Forensic/Flagzz)
