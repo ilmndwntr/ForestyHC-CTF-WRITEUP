@@ -29,7 +29,7 @@ untuk mendekripsi kan pesan ini, saya perlu membalikan proses, saya perlu mengek
 
 berikut codingan python:
 
-```
+```py
 import string
 
 def emojiDecrypt(cipherText):
