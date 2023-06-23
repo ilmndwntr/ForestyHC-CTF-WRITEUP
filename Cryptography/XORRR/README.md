@@ -9,7 +9,7 @@ Format Flag: ForestyCTF{flag}
 ## Solution
 Di beri sebuah encryptor nya
 
-```
+```py
 #!/usr/bin/python3
 
 FLAG = b"ForestyCTF{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}"
@@ -31,7 +31,7 @@ bisa di liat KEY nya tidak kasih tau jadi saya harus mencari key nya, saya mengi
 
 **Code**
 
-```
+```py
 from pwn import xor
 
 cipher= "355c111740002628673f08580617432b36056c14425d072d6c0c6f196c10006c111745472d185a1b1f563c4055156e590704"
@@ -60,7 +60,7 @@ jadi kita ambil 10 kata dari depan, jadi KEY nya adalah ```s3cr3t_k3y```
 
 langsung saja kita masukan KEY nya ke dalam kodingan kita tadi
 
-```
+```py
 from pwn import xor
 
 cipher= "355c111740002628673f08580617432b36056c14425d072d6c0c6f196c10006c111745472d185a1b1f563c4055156e590704"
