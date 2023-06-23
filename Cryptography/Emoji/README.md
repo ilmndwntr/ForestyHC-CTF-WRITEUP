@@ -9,7 +9,7 @@ Di berikan sebuah file berisikan ```😈 😒 😓 😇 😈 😒 😑 😄 😀
 
 lalu di berikan sebuah codingan python sebagai HINT nya
 
-```
+```py
 import string
 
 def emojiCrypt(plainText):
